@@ -23,6 +23,12 @@ export const Global = createGlobalStyle`
     font-family: "Oswald", Helvetica Neue;
     font-size: 1rem;
   }
+  a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+  }
+
   body{
     color: #fff;
     background: #000;
