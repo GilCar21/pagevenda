@@ -7,9 +7,6 @@ const Section = styled.section`
     background-size: cover;
     background-attachment: fixed;
     background-position: 75%;
-    @media only screen and (max-width: 900px){
-        background-size: auto;
-    }
 
     .filter{
     background: rgba(0,0,0,.4);
